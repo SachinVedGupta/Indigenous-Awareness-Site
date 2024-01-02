@@ -150,11 +150,3 @@ print("From the creators of this page: Sachin Gupta - We hope this page has help
 '''Above: Calls the feather and text to be drawn by the turtle.'''
 '''Above: Prints the eagle feather story to the console.'''
 
-#This the the repl.it which is found with the following link: https://replit.com/join/cqwwigbtqc-sachin9 
-#Please click on the repl.it link above because the code doesn't work (on my) IDLE for
-#some reason but it does work in the python turtle repl.it
-#Thanks, from Sachin Gupta.
- 
-#Assignment is: The land acknowledgment assignment.
-#Date is: July 22, 2021.
-#MAde by: Sachin Gupta.
